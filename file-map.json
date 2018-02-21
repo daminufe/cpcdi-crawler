@@ -1,0 +1,306 @@
+[
+  {
+    "input": "ListaArtigosAdaptadores_e_Cabos_.xlsx",
+    "output": "adaptadores-e-cabos.json"
+  },
+  {
+    "input": "ListaArtigosImpressoras_3D_Consumiveis_.xlsx",
+    "output": "impressoras-3d-consumiveis.json"
+  },
+  {
+    "input": "ListaArtigosRedes_Routers_.xlsx",
+    "output": "redes-routers.json"
+  },
+  {
+    "input": "ListaArtigosCaixas_.xlsx",
+    "output": "caixas.json"
+  },
+  {
+    "input": "ListaArtigosImpressoras_Fotograficas_.xlsx",
+    "output": "impressoras-fotograficas.json"
+  },
+  {
+    "input": "ListaArtigosRedes_Switch_.xlsx",
+    "output": "redes-switch.json"
+  },
+  {
+    "input": "ListaArtigosCamaras_Fotograficas_Acessorios_.xlsx",
+    "output": "camaras-fotograficas-acessorios.json"
+  },
+  {
+    "input": "ListaArtigosImpressoras_Jacto_Tinta_Consumiveis_.xlsx",
+    "output": "impressoras-jacto-tinta-consumiveis.json"
+  },
+  {
+    "input": "ListaArtigosRedes_Wireless_.xlsx",
+    "output": "redes-wireless.json"
+  },
+  {
+    "input": "ListaArtigosCamaras_Fotograficas_Digitais_.xlsx",
+    "output": "camaras-fotograficas-digitais.json"
+  },
+  {
+    "input": "ListaArtigosImpressoras_Jacto_Tinta_Papeis_.xlsx",
+    "output": "impressoras-jacto-tinta-papeis.json"
+  },
+  {
+    "input": "ListaArtigosRelogios_Desportivos_.xlsx",
+    "output": "relogios-desportivos.json"
+  },
+  {
+    "input": "ListaArtigosCamaras_Vídeo_.xlsx",
+    "output": "camaras-vídeo.json"
+  },
+  {
+    "input": "ListaArtigosImpressoras_Jacto_de_Tinta_A4_.xlsx",
+    "output": "impressoras-jacto-de-tinta-a4.json"
+  },
+  {
+    "input": "ListaArtigosRelogios_Desportivos_Acessorios_TomTom.xlsx",
+    "output": "relogios-desportivos-acessorios-tomto.json"
+  },
+  {
+    "input": "ListaArtigosCamaras_Vídeo_Acessorios_.xlsx",
+    "output": "camaras-vídeo-acessorios.json"
+  },
+  {
+    "input": "ListaArtigosImpressoras_Laser_Consumiveis_.xlsx",
+    "output": "impressoras-laser-consumiveis.json"
+  },
+  {
+    "input": "ListaArtigosSW_OFFICE_.xlsx",
+    "output": "sw-office.json"
+  },
+  {
+    "input": "ListaArtigosCartoes Presente_.xlsx",
+    "output": "cartoes-presente.json"
+  },
+  {
+    "input": "ListaArtigosImpressoras_Laser_Cores_A4_.xlsx",
+    "output": "impressoras-laser-cores-a4.json"
+  },
+  {
+    "input": "ListaArtigosSW_Sistemas_Operativos_.xlsx",
+    "output": "sw-sistemas-operativos.json"
+  },
+  {
+    "input": "ListaArtigosColunas_de_Som_.xlsx",
+    "output": "colunas-de-som.json"
+  },
+  {
+    "input": "ListaArtigosImpressoras_Laser_Mono_A4_.xlsx",
+    "output": "impressoras-laser-mono-a4.json"
+  },
+  {
+    "input": "ListaArtigosSistemas_Audio_.xlsx",
+    "output": "sistemas-audio.json"
+  },
+  {
+    "input": "ListaArtigosConectividade_.xlsx",
+    "output": "conectividade.json"
+  },
+  {
+    "input": "ListaArtigosJogos_.xlsx",
+    "output": "jogos.json"
+  },
+  {
+    "input": "ListaArtigosSmartBands_.xlsx",
+    "output": "smartbands.json"
+  },
+  {
+    "input": "ListaArtigosConsolas_Acessorios_.xlsx",
+    "output": "consolas-acessorios.json"
+  },
+  {
+    "input": "ListaArtigosMemorias_Cartoes_.xlsx",
+    "output": "memorias-cartoes.json"
+  },
+  {
+    "input": "ListaArtigosSmartBands_Acessorios_.xlsx",
+    "output": "smartbands-acessorios.json"
+  },
+  {
+    "input": "ListaArtigosConsolas_de_Jogos_Microsoft.xlsx",
+    "output": "consolas-de-jogos-microsof.json"
+  },
+  {
+    "input": "ListaArtigosMemorias_PCs_.xlsx",
+    "output": "memorias-pcs.json"
+  },
+  {
+    "input": "ListaArtigosSmartPhones_Acessorios_.xlsx",
+    "output": "smartphones-acessorios.json"
+  },
+  {
+    "input": "ListaArtigosConsumiveis_de_Gravacao_.xlsx",
+    "output": "consumiveis-de-gravacao.json"
+  },
+  {
+    "input": "ListaArtigosMemorias_Portateis_.xlsx",
+    "output": "memorias-portateis.json"
+  },
+  {
+    "input": "ListaArtigosSmartWatch_.xlsx",
+    "output": "smartwatch.json"
+  },
+  {
+    "input": "ListaArtigosDiscos_Acessorios_.xlsx",
+    "output": "discos-acessorios.json"
+  },
+  {
+    "input": "ListaArtigosMemorias_USB_.xlsx",
+    "output": "memorias-usbsmartwatch-acessoris.json"
+  },
+  {
+    "input": "ListaArtigosSmartWatch_Acessorios_.xlsx",
+    "output": "discos-externos.json"
+  },
+  {
+    "input": "ListaArtigosDiscos_Externos_.xlsx",
+    "output": "monitores-tft.json"
+  },
+  {
+    "input": "ListaArtigosMonitores_TFT_.xlsx",
+    "output": "smartphones.json"
+  },
+  {
+    "input": "ListaArtigosSmartphones_.xlsx",
+    "output": "discos-hdd.json"
+  },
+  {
+    "input": "ListaArtigosDiscos_HDD_.xlsx",
+    "output": "motherboards-pcs.json"
+  },
+  {
+    "input": "ListaArtigosMotherboards_Pcs_.xlsx",
+    "output": "tablets.json"
+  },
+  {
+    "input": "ListaArtigosTablets_.xlsx",
+    "output": "discos-ssd.json"
+  },
+  {
+    "input": "ListaArtigosDiscos_SSD_.xlsx",
+    "output": "multimedia.json"
+  },
+  {
+    "input": "ListaArtigosMultimedia_.xlsx",
+    "output": "tablets-acessorios.json"
+  },
+  {
+    "input": "ListaArtigosTablets_Acessorios_.xlsx",
+    "output": "drives-opticas.json"
+  },
+  {
+    "input": "ListaArtigosDrives_opticas_.xlsx",
+    "output": "pcs.json"
+  },
+  {
+    "input": "ListaArtigosPCs_.xlsx",
+    "output": "teclados.json"
+  },
+  {
+    "input": "ListaArtigosTeclados_.xlsx",
+    "output": "drones-acessorios.json"
+  },
+  {
+    "input": "ListaArtigosDrones_Acessorios_.xlsx",
+    "output": "pcs-acessorios.json"
+  },
+  {
+    "input": "ListaArtigosPCs_Acessorios_.xlsx",
+    "output": "teclados-e-ratos.json"
+  },
+  {
+    "input": "ListaArtigosTeclados_e_Ratos_.xlsx",
+    "output": "drones-parro.json"
+  },
+  {
+    "input": "ListaArtigosDrones_Parrot.xlsx",
+    "output": "placas-graficas.json"
+  },
+  {
+    "input": "ListaArtigosPlacas_Graficas_.xlsx",
+    "output": "televisores.json"
+  },
+  {
+    "input": "ListaArtigosTelevisores_.xlsx",
+    "output": "equipamentos-gps.json"
+  },
+  {
+    "input": "ListaArtigosEquipamentos_GPS_.xlsx",
+    "output": "portateis.json"
+  },
+  {
+    "input": "ListaArtigosPortateis_.xlsx",
+    "output": "televisores-acessorios.json"
+  },
+  {
+    "input": "ListaArtigosTelevisores_Acessorios_.xlsx",
+    "output": "equipamentos-gps-acessorios-tomto.json"
+  },
+  {
+    "input": "ListaArtigosEquipamentos_GPS_Acessorios_TomTom.xlsx",
+    "output": "portateis-acessorios.json"
+  },
+  {
+    "input": "ListaArtigosPortateis_Acessorios_.xlsx",
+    "output": "videoprojectores.json"
+  },
+  {
+    "input": "ListaArtigosVideoprojectores_.xlsx",
+    "output": "gaming-pc-acessorios.json"
+  },
+  {
+    "input": "ListaArtigosGaming_PC_Acessorios_.xlsx",
+    "output": "power-banks.json"
+  },
+  {
+    "input": "ListaArtigosPower_Banks_.xlsx",
+    "output": "videovigilância.json"
+  },
+  {
+    "input": "ListaArtigosVideovigilância_.xlsx",
+    "output": "healthcare-prestigi.json"
+  },
+  {
+    "input": "ListaArtigosHealthCare_Prestigio.xlsx",
+    "output": "processadores.json"
+  },
+  {
+    "input": "ListaArtigosProcessadores_.xlsx",
+    "output": "webcam.json"
+  },
+  {
+    "input": "ListaArtigosWebCam_.xlsx",
+    "output": "home-cinema.json"
+  },
+  {
+    "input": "ListaArtigosHome_Cinema_.xlsx",
+    "output": "ratos-para-pcs.json"
+  },
+  {
+    "input": "ListaArtigosRatos_para_PCs_.xlsx",
+    "output": "workstation.json"
+  },
+  {
+    "input": "ListaArtigosWorkstation_.xlsx",
+    "output": "home-solutions.json"
+  },
+  {
+    "input": "ListaArtigosHome_Solutions_.xlsx",
+    "output": "ratos-para-portateis.json"
+  },
+  {
+    "input": "ListaArtigosRatos_para_Portateis_.xlsx",
+    "output": "impressoras-3d.json"
+  },
+  {
+    "input": "ListaArtigosImpressoras_3D_.xlsx",
+    "output": "redes-powerline.json"
+  },
+  {
+    "input": "ListaArtigosRedes_Powerline_.xlsx",
+    "output": ""
+  }
+]
